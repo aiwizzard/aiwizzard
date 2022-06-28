@@ -1,10 +1,10 @@
 ### Hi there 👋  
 - 🔭 I’m currently working as a Senior Software Developer.  
-- Very much interested Deep Learning.  
-- I'm looking to to collaborate on any Deep Learning Projects.  
-- I,m proficient in Python, Django, django rest framework, React, Redux and Docker.  
-- I have some hands on experience in Kubernetes, Flutter, Django Channels, Vue, Pytorch, Pandas and Numpy.
-- 🌱 Recently sparked interest in Rust programming language.
+- 🌱 I'm very much interested in Deep Learning and Artificial Intelligence.  
+- 👯 I'm looking to to collaborate on any Deep Learning Projects.  
+- ✌🏽 I'm proficient in Python, Django, django rest framework, React, Redux and Docker.  
+- ✌🏽 I've some hands on experience in Kubernetes, Flutter, Django Channels, Vue, Pytorch, Pandas and Numpy.
+- ⚡ Recently sparked interest in Rust programming language.
 <!--
 **aiwizzard/aiwizzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 - 🔭 I’m currently working as a Senior Software Developer.  
 - 🌱 I'm very much interested in Deep Learning and Artificial Intelligence.  
 - 👯 I'm looking to to collaborate on any Deep Learning Projects.  
-- ✌🏽 I'm proficient in Python, Django, django rest framework, PyTorch, React, Redux and Docker. 
+- ✌🏽 I'm proficient in Python, Django, django rest framework, PyTorch, React, Nextjs, Redux and Docker. 
 - ✌🏽 I've some hands on experience in Kubernetes, FastAPI, Flask, Flutter, Django Channels, Pandas Numpy and OpenCV.
 - ⚡ Recently sparked interest in Rust programming language and low level programming.
 <!--

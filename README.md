@@ -5,6 +5,7 @@
 - ✌🏽 I'm proficient in Python, Django, django rest framework, PyTorch, React, Nextjs, Redux and Docker. 
 - ✌🏽 I've some hands on experience in Kubernetes, FastAPI, Flask, Terraform Flutter, Django Channels, Pandas Numpy and OpenCV.
 - ⚡ Recently sparked interest in Rust programming language and low level programming.
+- 🕸️ Web: https://ajmalk.com
 <!--
 **aiwizzard/aiwizzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
